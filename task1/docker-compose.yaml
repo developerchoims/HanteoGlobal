@@ -1,0 +1,10 @@
+services:
+  mysql:
+    image: 'mysql:latest'
+    environment:
+      - 'MYSQL_DATABASE=hanteo'
+      - 'MYSQL_PASSWORD=4gkrsus1qks!'
+      - 'MYSQL_ROOT_PASSWORD=4gkrsus1qks!'
+      - 'MYSQL_USER=root'
+    ports:
+      - '3306:3306'
