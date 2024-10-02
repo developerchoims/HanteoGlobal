@@ -1,7 +1,5 @@
 package com.hanteo.task1.controller;
 
-import com.hanteo.task1.entity.Post;
-import com.hanteo.task1.model.dto.PostResponseDto;
 import com.hanteo.task1.service.PostService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

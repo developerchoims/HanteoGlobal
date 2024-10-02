@@ -1,6 +1,5 @@
 package com.hanteo.task1.service;
 
-import com.hanteo.task1.model.dto.PostResponseDto;
 import org.springframework.http.ResponseEntity;
 
 public interface PostService {
