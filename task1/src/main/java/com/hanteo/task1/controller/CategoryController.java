@@ -1,6 +1,7 @@
 package com.hanteo.task1.controller;
 
 import com.hanteo.task1.service.CategoryService;
+import jakarta.annotation.Nullable;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -16,8 +17,8 @@ public class CategoryController {
     private final CategoryService categoryService;
 
     @GetMapping("/category")
-    public ResponseEntity<?> getCategory(@RequestParam Integer categoryId
-                                    , @RequestParam String name) {
+    public ResponseEntity<?> getCategory(@Nullable @RequestParam Integer categoryId
+                                    , @Nullable @RequestParam String name) {
 
         //카테고리 식별자 및 카테고리명으로 검색이 되어야하며,
         //검색된 결과 값은 해당 카테고리의 하위 카테고리를 모두 담고 있어야 한다.
