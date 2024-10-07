@@ -22,11 +22,17 @@
 </div>
 </br></br></br></br>
 
+## Directory
+hanteo
+L task1(게시판 카테고리 구분 모듈)
+L task2(동전 교환 문제 모듈)
+</br></br></br></br>
+
 ## Fast Start
 - 리파지토리를 fork합니다.
 - 함께 드린 category script.sql을 이용해 table을 생성해주세요
 - 생성한 db table과 springboot를 연동해주세요
-- postman을 이용해 test 가능하십니다.
+- postman을 이용해 test 가능하십니다.</br>
 (편의를 위해 postman을 이용한 결과를 첨부해놓았으니 하단을 참고해주세요.)
 </br></br></br></br>
 
@@ -37,9 +43,9 @@
 ![image](https://github.com/user-attachments/assets/665156da-901b-4aab-9f69-ef6fd9a795f6)
 
 ### postman 확인 결과
-1. getCategory test
-   https://web.postman.co/workspace/getCategory-Test~8ea0ff0d-18ca-4b63-bb9f-b5ecc169dd66/request/37825355-54b49252-556a-4909-8ca5-05b74c9a589d
-   id, name 중 존재하는 것을 감지하여 데이터 반환
+1. getCategory test</br>
+   https://web.postman.co/workspace/getCategory-Test~8ea0ff0d-18ca-4b63-bb9f-b5ecc169dd66/request/37825355-54b49252-556a-4909-8ca5-05b74c9a589d</br>
+   id, name 중 존재하는 것을 감지하여 데이터 반환</br>
 
    - 남자로 검색했을 경우
      <p>
@@ -137,14 +143,12 @@
    ![image](https://github.com/user-attachments/assets/f63f54d5-26b6-43eb-9f8e-5223727a6090)
 </br></br></br></br>
 
-## task 2 : 게시판 카테고리 구분
-![image](https://github.com/user-attachments/assets/9e1ca0c0-2848-491a-861a-c2b6f072d8e9)
-
-### DB 구조
-![image](https://github.com/user-attachments/assets/665156da-901b-4aab-9f69-ef6fd9a795f6)
+## task 2 : 동전 교환 문제
 
 ### postman 확인 결과
-1. getCategory test
-   https://web.postman.co/wo
+1. getCategory test</br>
+   [https://web.postman.co/wo](https://web.postman.co/workspace/getCategory-Test~8ea0ff0d-18ca-4b63-bb9f-b5ecc169dd66/request/37825355-c51a41d7-69bf-4744-aaa6-6cbca8fc28c0)
+   ![image](https://github.com/user-attachments/assets/0097ec1e-33d8-42fa-a10a-3080489ea0d6)
+
 
      
