@@ -44,7 +44,7 @@ L task2(동전 교환 문제 모듈)
 
 ### postman 확인 결과
 1. getCategory test</br>
-   https://web.postman.co/workspace/getCategory-Test~8ea0ff0d-18ca-4b63-bb9f-b5ecc169dd66/request/37825355-54b49252-556a-4909-8ca5-05b74c9a589d</br>
+   [id 또는 name 입력 경우](https://web.postman.co/workspace/getCategory-Test~8ea0ff0d-18ca-4b63-bb9f-b5ecc169dd66/request/37825355-54b49252-556a-4909-8ca5-05b74c9a589d)</br>
    id, name 중 존재하는 것을 감지하여 데이터 반환</br>
 
    - 남자로 검색했을 경우
@@ -139,7 +139,7 @@ L task2(동전 교환 문제 모듈)
 }
    </p>
    -공지사항 검색 결과
-   공지사항은 두 가지가 존재하기 때문에 Exception 처리했습니다.
+   공지사항은 두 가지가 존재하기 때문에 Exception 처리했습니다.</br>
    ![image](https://github.com/user-attachments/assets/f63f54d5-26b6-43eb-9f8e-5223727a6090)
 </br></br></br></br>
 
@@ -147,7 +147,7 @@ L task2(동전 교환 문제 모듈)
 
 ### postman 확인 결과
 1. getCategory test</br>
-   [https://web.postman.co/wo](https://web.postman.co/workspace/getCategory-Test~8ea0ff0d-18ca-4b63-bb9f-b5ecc169dd66/request/37825355-c51a41d7-69bf-4744-aaa6-6cbca8fc28c0)
+   [10, {2,3,5,6} 입력](https://web.postman.co/workspace/getCategory-Test~8ea0ff0d-18ca-4b63-bb9f-b5ecc169dd66/request/37825355-c51a41d7-69bf-4744-aaa6-6cbca8fc28c0)
    ![image](https://github.com/user-attachments/assets/0097ec1e-33d8-42fa-a10a-3080489ea0d6)
 
 
