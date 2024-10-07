@@ -151,5 +151,14 @@ L task2(동전 교환 문제 모듈)</br>
    [10, {2,3,5,6} 입력](https://web.postman.co/workspace/getCategory-Test~8ea0ff0d-18ca-4b63-bb9f-b5ecc169dd66/request/37825355-c51a41d7-69bf-4744-aaa6-6cbca8fc28c0)
    ![image](https://github.com/user-attachments/assets/0097ec1e-33d8-42fa-a10a-3080489ea0d6)
 
+</br></br></br></br>
+
+## task 처리 과정
+1. git issue 사용</br>
+    ![image](https://github.com/user-attachments/assets/54ce9f32-f3ca-40d5-9932-25a8d76e4263) </br>
+
+
+2. pull request</br>
+   ![image](https://github.com/user-attachments/assets/cedf4e7b-27d8-4393-b9cd-8a25cfd38d58)</br>
 
      
