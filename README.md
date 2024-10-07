@@ -48,7 +48,7 @@ L task2(동전 교환 문제 모듈)</br>
    id, name 중 존재하는 것을 감지하여 데이터 반환</br>
 
    - 남자로 검색했을 경우
-     <p>
+     <pre>
        {
     "1": [
         {
@@ -111,10 +111,10 @@ L task2(동전 교환 문제 모듈)</br>
         }
     ]
 }
-     </p>
+     </pre>
 
    - 7로 검색했을 경우
-   - <p>
+   - <pre>
      {
     "7": [
         {
@@ -137,10 +137,11 @@ L task2(동전 교환 문제 모듈)</br>
         }
     ]
 }
-   </p>
+   </pre>
    -공지사항 검색 결과
    공지사항은 두 가지가 존재하기 때문에 Exception 처리했습니다.</br>
-   ![image](https://github.com/user-attachments/assets/f63f54d5-26b6-43eb-9f8e-5223727a6090)
+   ![image](https://github.com/user-attachments/assets/1af075a3-d990-4bbf-b99b-2252c809abdb)
+
 </br></br></br></br>
 
 ## task 2 : 동전 교환 문제
