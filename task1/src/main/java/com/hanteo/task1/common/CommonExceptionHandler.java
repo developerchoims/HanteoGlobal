@@ -1,11 +1,11 @@
 package com.hanteo.task1.common;
 
 import jakarta.persistence.EntityNotFoundException;
+import org.springframework.dao.DuplicateKeyException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
-import org.yaml.snakeyaml.constructor.DuplicateKeyException;
 
 import java.io.IOException;
 
